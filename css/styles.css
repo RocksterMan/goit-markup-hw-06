@@ -960,7 +960,7 @@ html {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-    color: var(--fst-text-color);
+    color: var(--snd-text-color);
 }
 .user-policy-link {
     color: var(--special-color);
